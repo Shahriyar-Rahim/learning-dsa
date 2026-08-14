@@ -1,0 +1,23 @@
+.vscode/
+*.sh
+# Default GCC/Clang executable
+a.out
+
+# Common executable extensions (optional, if you use them)
+*.exe
+*.bin
+
+# Object files (intermediate compilation files)
+*.o
+
+# Shared libraries
+*.so
+*.so.*
+
+# Static libraries
+*.a
+
+# Build directories (common conventions)
+build/
+bin/
+out/   
